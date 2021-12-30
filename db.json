@@ -1,8 +1,25 @@
 {
     "Authentication": [
       {
+        "Email": "siva@gmail.com",
+        "Password": "1234"
+      },
+      {
         "Email": "learningtowardsend@gmail.com",
         "Password": "1234"
+      },
+      {
+        "Email": "admin@gmail.com",
+        "Password": "1234"
+      }
+    ],
+    "Booking":[
+      {
+        "Number": 1,
+        "Name": "100 Seat Space",
+        "Session": "FN",
+        "Date": "30.12.2021",
+        "Status": "R"
       }
     ]
   }
