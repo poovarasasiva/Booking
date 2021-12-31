@@ -11,15 +11,19 @@
       {
         "Email": "admin@gmail.com",
         "Password": "1234"
+      },
+      {
+        "Email": "poovarasasiva16@gmail.com",
+        "Password": "1234"
       }
     ],
     "Booking":[
       {
         "Number": 1,
-        "Name": "100 Seat Space",
+        "Name": "16 Seat Space",
         "Session": "FN",
         "Date": "30.12.2021",
-        "Status": "R"
+        "Status": "B"
       }
     ]
   }
