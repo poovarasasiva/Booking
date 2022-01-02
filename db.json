@@ -20,6 +20,7 @@
     "Booking":[
       {
         "id": 1,
+        "Number": 1,
         "Name": "16 Seat Space",
         "Session": "FN",
         "BookedDate": "30.12.2021",
